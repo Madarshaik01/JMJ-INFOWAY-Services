@@ -1,0 +1,37 @@
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\bin\Debug\netcoreapp3.1\JMJ INFOWAY Services.exe
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\bin\Debug\netcoreapp3.1\JMJ INFOWAY Services.deps.json
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\bin\Debug\netcoreapp3.1\JMJ INFOWAY Services.runtimeconfig.json
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\bin\Debug\netcoreapp3.1\JMJ INFOWAY Services.runtimeconfig.dev.json
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\bin\Debug\netcoreapp3.1\JMJ INFOWAY Services.dll
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\bin\Debug\netcoreapp3.1\JMJ INFOWAY Services.pdb
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\bin\Debug\netcoreapp3.1\JMJ INFOWAY Services.Views.dll
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\bin\Debug\netcoreapp3.1\JMJ INFOWAY Services.Views.pdb
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.csprojAssemblyReference.cache
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.AssemblyInfoInputs.cache
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.AssemblyInfo.cs
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.csproj.CoreCompileInputs.cache
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.RazorAssemblyInfo.cache
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.RazorAssemblyInfo.cs
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.TagHelpers.input.cache
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.TagHelpers.output.cache
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.RazorCoreGenerate.cache
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.RazorTargetAssemblyInfo.cache
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.RazorTargetAssemblyInfo.cs
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.Views.pdb
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\staticwebassets\JMJ INFOWAY Services.StaticWebAssets.Manifest.cache
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\staticwebassets\JMJ INFOWAY Services.StaticWebAssets.xml
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.dll
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.pdb
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.genruntimeconfig.cache
+C:\Users\riyaz\source\repos\BPO ITES solutions\JMJ INFOWAY Services\obj\Debug\netcoreapp3.1\JMJ INFOWAY Services.csproj.CopyComplete

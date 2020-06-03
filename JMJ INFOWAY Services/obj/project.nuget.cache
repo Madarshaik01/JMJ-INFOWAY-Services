@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OM58Yegs5500EvFZK3EpsLQ7xaU+wgCuMfz+4bg9cgq3UEMkAZRh7x+mkOK04xsN6U5CGit2iFTlsL3RWnT1Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riyaz\\source\\repos\\BPO ITES solutions\\JMJ INFOWAY Services\\JMJ INFOWAY Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riyaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
